@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XNFMkTcgNXumXxhu8U18rji//nY+XvU1B+9K3rffXbY=",
+  "Source": "MWAPI_Server",
+  "BasePath": "_content/MWAPI_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
